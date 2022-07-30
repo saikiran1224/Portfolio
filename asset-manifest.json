@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.de770f5e.css",
+    "main.js": "/Portfolio/static/js/main.1c3e428f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bhojanforall.png": "/Portfolio/static/media/bhojanforall.5da1252e7a035cbe5c5b.png",
+    "static/media/greenshakthi.png": "/Portfolio/static/media/greenshakthi.b1452aa5c36e9db0d377.png",
+    "static/media/gdscgmrit.png": "/Portfolio/static/media/gdscgmrit.3ef52274df434cd4d23e.png",
+    "static/media/patient.png": "/Portfolio/static/media/patient.197569509a23136bf655.png",
+    "static/media/stumate.png": "/Portfolio/static/media/stumate.fa6996be7af8e47dd782.png",
+    "static/media/K.N.V.R.S.Sai Kiran - Resume - 30072022.pdf": "/Portfolio/static/media/K.N.V.R.S.Sai Kiran - Resume - 30072022.f5e071c5bdc3bbf91aba.pdf",
+    "static/media/techshrine.png": "/Portfolio/static/media/techshrine.fd3413a50c3b0967dd13.png",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo_saikiran.png": "/Portfolio/static/media/logo_saikiran.2490e03b4782ce5adb7d.png",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.de770f5e.css.map": "/Portfolio/static/css/main.de770f5e.css.map",
+    "main.1c3e428f.js.map": "/Portfolio/static/js/main.1c3e428f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de770f5e.css",
+    "static/js/main.1c3e428f.js"
+  ]
+}
